@@ -4,7 +4,7 @@
 
 ## How to Use
 
-Simply visit the GitHub repository at [Shorting-Visualizer](https://github.com/Bhola-kumar/Shorting-Visualizer) to access and use the visualizer.
+Simply visit the GitHub repository at [Shorting-Visualizer](https://github.com/zoro2409/Sorting-Visualizer) to access and use the visualizer.
 
 ## Features
 
@@ -34,6 +34,6 @@ Simply visit the GitHub repository at [Shorting-Visualizer](https://github.com/B
 
 ## Upcoming Features
 
-We are committed to enhancing the project by adding more sorting algorithms and improving the visualization techniques. Your suggestions are valuable in shaping the future of **Shorting-Visualizer**. Please feel free to email your suggestions to bholak993@gmail.com.
+We are committed to enhancing the project by adding more sorting algorithms and improving the visualization techniques. Your suggestions are valuable in shaping the future of **Shorting-Visualizer**. Please feel free to email your suggestions to nihalsinghrajora24@gmail.com.
 
 Thank you for exploring **Shorting-Visualizer**!
